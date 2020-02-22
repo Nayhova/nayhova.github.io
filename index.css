@@ -24,7 +24,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .icons{
     display: grid;
-    grid-template-columns: 75px 75px 75px 75px;
+    grid-template-columns: 100px 100px 100px 100px;
     /* grid-template-rows: 100px; */
     width:75px;
     margin-left:auto;
@@ -86,3 +86,5 @@ ul {
   
   li a:hover {
     background-color: rgb(247, 7, 7);
+
+    
